@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mahmoudsharaf/.gradle/daemon/7.5.1/com.social.app.russa.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.social.app.russa.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.social.app.russa.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

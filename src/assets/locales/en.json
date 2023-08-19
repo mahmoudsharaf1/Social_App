@@ -1,0 +1,63 @@
+{
+  "auth": {
+    "signup": "Sign Up",
+    "signin": "Sign In",
+    "fullName": "Full name",
+    "email": "E-mail",
+    "password": "Password",
+    "confirmpassword": "Confirm Password",
+    "yourName": "Your name",
+    "yourEmail": "Your E-mail",
+    "validateEmail": "Enter a valid email address",
+    "validatePassword": "Password must be larger than 7 letters",
+    "validateConfirmPassword": "Password doesn't match",
+    "validateName": "Enter a valid name",
+    "validatePhone": "Enter a valid phone number",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "Log In to make your memories": "Log In to make your memories",
+    "have_account": "Don't have an account?",
+    "Create New Account": "Create New Account",
+    "Please enter the Full Name": "Please enter the Full Name",
+    "The name must contain more than 6 letters": "The name must contain more than 6 letters",
+    "Invalid email": "Invalid email",
+    "Please enter the email": "Please enter the email",
+    "Please enter the password": "Please enter the password",
+    "Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters": "Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters",
+    "Password confirmation doesn't match": "Password confirmation doesn't match",
+    "Email already in use": "Email already in use",
+    "That email address is invalid!": "That email address is invalid!",
+    "Wrong password": "Wrong password",
+    "User not found": "User not found"
+  },
+  "bottomTabs": {
+    "home": "Home",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "Account"
+  },
+  "home": {
+    "News": "News",
+    "Comments": "Comments"
+  },
+  "search": {
+    "recentSearches": "Recent Searches",
+    "featured": "Featured",
+    "searchYourFavorites": "Search your favorites",
+    "stores": "Stores",
+    "items": "Items",
+    "filterBy": "Filter by",
+    "sortBy": "Sort by",
+    "apply": "APPLY"
+  },
+  "post": {
+    "post": "Post",
+    "cancle": "Cancle",
+    "write": "Write something..",
+    "photo": "Photo",
+    "no_comments": "There are no comments",
+    "send": "Send",
+    "write_comment": "Write a comment",
+    "account": "Account"
+  }
+}

@@ -1,0 +1,16 @@
+current directory: /Users/mahmoudsharaf/Desktop/ReactNative/socialapp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/mahmoudsharaf/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mahmoudsharaf/Desktop/ReactNative/socialapp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230510-64177-fgo040 sitelibdir\=./.gem.20230510-64177-fgo040 clean
+
+current directory: /Users/mahmoudsharaf/Desktop/ReactNative/socialapp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230510-64177-fgo040 sitelibdir\=./.gem.20230510-64177-fgo040
+make: Nothing to be done for `all'.
+
+current directory: /Users/mahmoudsharaf/Desktop/ReactNative/socialapp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230510-64177-fgo040 sitelibdir\=./.gem.20230510-64177-fgo040 install
+
+current directory: /Users/mahmoudsharaf/Desktop/ReactNative/socialapp/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20230510-64177-fgo040 sitelibdir\=./.gem.20230510-64177-fgo040 clean
